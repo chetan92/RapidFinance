@@ -1,0 +1,12 @@
+{
+    "name": "abhishek/php-mail",
+    "authors": [
+        {
+            "name": "Abhishek Singh",
+            "email": "abhishek@newgenpayments.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    }
+}
