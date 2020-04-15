@@ -20,8 +20,8 @@ try{
     $mail->SMTPSecure = "tls";
     $mail->Port       = 587;
     $mail->Host       = "smtp.gmail.com";
-    $mail->Username   = "chetanchadha92@gmail.com";
-    $mail->Password   = "newgen@2016";
+    $mail->Username   = "rapidfinance2020@gmail.com";
+    $mail->Password   = "rapid@12345";
     
     $mail->IsHTML(true);
     $mail->AddAddress('puneetsethi0809@gmail.com', "Admin ");
